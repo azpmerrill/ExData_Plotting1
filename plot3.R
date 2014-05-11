@@ -30,4 +30,8 @@ legend("topright", lty = 1, col = c("black", "red", "blue"), legend = c("Sub_met
 
 #Close the graph
 dev.off()
+<<<<<<< HEAD
 Sys.setlocale(locale = "")
+=======
+Sys.setlocale(locale = "")
+>>>>>>> 47bf79444fbbfd265ef893471dc8e0caf957efac
