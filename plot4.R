@@ -45,8 +45,5 @@ plot(plotData$DateTime,as.numeric(type.convert(as.character(plotData$Global_reac
 
 #Close the graph
 dev.off()
-<<<<<<< HEAD
 Sys.setlocale(locale = "")
-=======
-Sys.setlocale(locale = "")
->>>>>>> 47bf79444fbbfd265ef893471dc8e0caf957efac
+

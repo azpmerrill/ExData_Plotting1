@@ -18,8 +18,5 @@ hist(as.numeric(type.convert(as.character(plotData$Global_active_power), dec = "
      main = "Global Active Power", breaks = 14, xlab = "Global Active Power (kilowatts)", col = "red", xaxp = c(0, 6, 3))
 
 #Close the graph
-<<<<<<< HEAD
 dev.off()
-=======
-dev.off()
->>>>>>> 47bf79444fbbfd265ef893471dc8e0caf957efac
+
